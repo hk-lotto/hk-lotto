@@ -1,0 +1,4 @@
+User-agent: *
+allow: 
+allow: /cgi-bin/
+Sitemap: https://hk.xop.design-pattern.ru/sitemap.xml
